@@ -2,7 +2,11 @@
 
 As an experienced Data Analyst and future Data Scientist known for cost effective highperformance-technology solutions, I fulfill challenging business demands. 
 
-I am excited about ML 👨‍💻, Data Mining👷🏼‍♂️, XR/MR-experiences 🎮 und Life-Science👨‍🔬.  
+I am excited about 
+ - ML 🧠
+ - Data Mining 🛠️
+ - XR/MR-experiences 🎮
+ - Life-Science 🧬  
 
 <!--
 **TillMeineke/TillMeineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
