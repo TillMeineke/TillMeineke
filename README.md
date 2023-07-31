@@ -2,7 +2,7 @@
 
 As an experienced Data Analyst and future Data Scientist known for cost effective highperformance-technology solutions, I fulfill challenging business demands. 
 
-I am excited about 
+I am excited about:
  - ML 🧠
  - Data Mining 🛠️
  - XR/MR-experiences 🎮
