@@ -2,18 +2,19 @@
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 
-[website]: https://tillmeineke.github.io
-[linkedin]: https://www.linkedin.com/in/tillmeineke
-## Data Analyst and future Data Scientist and Machine Learning Engineer
+[website]: https://tillmeineke.github.io "tillmeineke.github.io"
+[linkedin]: https://www.linkedin.com/in/tillmeineke "linkedin.com/in/tillmeineke"
 
-As an experienced Data Analyst and future Data Scientist/MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
+## Data Analyst and future Data Scientist / Machine Learning Engineer
+
+As an experienced Data Analyst and future Data Scientist / MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
 
 ## I am excited about
 
- 🧠 ML\
- 🛠️ Data Mining\
- 🎮 XR/MR-experiences\
- 🧬 Life-Science
+🧠 ML\
+🛠️ Data Mining\
+🎮 XR/MR-experiences\
+🧬 Life-Science
 
 ---
 
@@ -29,7 +30,6 @@ As an experienced Data Analyst and future Data Scientist/MLE known for cost effe
 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
-
 
 <!--
 **TillMeineke/TillMeineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
