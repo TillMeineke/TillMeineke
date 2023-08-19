@@ -1,7 +1,9 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website]Hello there, I'm Till
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="25" src="https://img.shields.io/badge/LinkedIn-blue" />][linkedin]
+[<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 
+[website]: https://tillmeineke.github.io
+[linkedin]: https://www.linkedin.com/in/tillmeineke
 ## Data Analyst and future Data Scientist and Machine Learning Engineer
 
 As an experienced Data Analyst and future Data Scientist/MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
@@ -13,19 +15,20 @@ As an experienced Data Analyst and future Data Scientist/MLE known for cost effe
  🎮 XR/MR-experiences\
  🧬 Life-Science
 
+---
+
 ## My GitHub Stats 💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TillMeineke&hide=java,html,css&theme=dracula)
 
 ![Till's GitHub stats](https://github-readme-stats.vercel.app/api?username=TillMeineke&theme=dracula)
 
-[website]: https://tillmeineke.github.io
-[linkedin]: https://www.linkedin.com/in/tillmeineke
+---
 
 ## Connect with me
 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="25" src="https://img.shields.io/badge/LinkedIn-blue" />][linkedin]
+[<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 
 
 <!--
