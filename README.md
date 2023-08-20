@@ -76,7 +76,7 @@ As an experienced Data Analyst and future Data Scientist / MLE known for cost ef
  </details>
 </h2>
 
-## Connect with me
+## Connect with me 📫
 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
