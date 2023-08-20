@@ -1,7 +1,9 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hello there, I'm Till
+<!---
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=black" alt="medium"/>][medium]
+--->
 
 <!--
 **TillMeineke/TillMeineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
