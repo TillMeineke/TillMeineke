@@ -69,6 +69,7 @@ As an experienced Data Analyst and future Data Scientist / MLE known for cost ef
 <h2>
  <details>
   <summary>My GitHub Stats 📈</summary>
+  </br>
   <p width="100%" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TillMeineke&hide=java,html,css&theme=dracula" alt="GitHub Top Languages" align="top"/></p>
    <img src="https://github-readme-stats.vercel.app/api?username=TillMeineke&theme=dracula" alt="GitHub Stats" align="top"/>
