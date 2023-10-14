@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Data Analyst with a degree in biochemistry / molecular biology, Data Scientist and future Machine Learning Engineer
 
-As an experienced Data Analyst and future Data Scientist / MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
+As an experienced Data Analyst / Data Scientist and future MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
 
 ## I am excited about 👨🏽‍💻
 
