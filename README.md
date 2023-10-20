@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Data Analyst with a degree in biochemistry / molecular biology and future Data Scientist / Machine Learning Engineer
+### Data Analyst / Data Scientist with a degree in biochemistry / molecular biology and future Machine Learning Engineer
 
-As an experienced Data Analyst and future Data Scientist / MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
+As an experienced Data Analyst / Data Scientist and future MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
 
 ## I am excited about 👨🏽‍💻
 
@@ -74,7 +74,7 @@ As an experienced Data Analyst and future Data Scientist / MLE known for cost ef
   </br>
   <p width="100%" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TillMeineke&hide=java,html,css&theme=dracula" alt="GitHub Top Languages" align="top"/></p>
-   <img src="https://github-readme-stats.vercel.app/api?username=TillMeineke&theme=dracula" alt="GitHub Stats" align="top"/>
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TillMeineke&theme=dracula" alt="GitHub Stats" align="top"/> -->
  </details>
 </h2>
 
