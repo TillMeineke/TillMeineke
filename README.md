@@ -34,7 +34,7 @@ As an experienced Data Analyst / Data Scientist and future MLE known for cost ef
 
 ## Technologies 💻
 
-<pwidth="100%" align="left">
+<p width="100%" align="left">
   <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img height="30" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=#150458" alt="pandas"/>
   <img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&&logo=numpy&logoColor=#013243" alt="NumPy"/>
