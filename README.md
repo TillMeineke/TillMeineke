@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 
 ### Data Analyst / Data Scientist with a degree in biochemistry / molecular biology and future Machine Learning Engineer
 
-As an experienced Data Analyst / Data Scientist and future MLE known for cost effective highperformance-technology solutions, I fulfill challenging business demands.
+As an experienced Data Analyst and Data Scientist with a diploma in biochemistry / molecular biology I’m thrilled about machine learning projects.
+
+## SKILLS
+- diploma in biochemistry / molecularbiology
+- work experience in data projects in the scientific field
+- Extensive knowledge and experience with Git(Hub), Python, SQL and NoSQL
+- 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
+- Applied knowledge of CSS, HTML and Dash for web-based user interfaces
+- Strong documentation skills
 
 ## I am excited about 👨🏽‍💻
 
