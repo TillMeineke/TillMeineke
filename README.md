@@ -21,6 +21,7 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
 🌱 I’m learning to become a future Machine Learning Engineer
 
 ## I am excited about 👨🏽‍💻
+
 🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
 🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
 🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
