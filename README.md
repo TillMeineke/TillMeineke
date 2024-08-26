@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ### Data Analyst / Data Scientist with a degree in biochemistry / molecular biology 
 As an experienced Data Analyst and Data Scientist with a diploma in biochemistry / molecular biology I’m thrilled about machine learning projects.
 
-🌱 I’m learning to become a future Machine Learning Engineer
+🌱 I’m learning to become a future Machine Learning Engineer.
 
 ## I am excited about 👨🏽‍💻
 
-🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
-🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
-🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
-🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
-🤓 Teaching / Research
+- 🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
+- 🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
+- 🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
+- 🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
+- 🤓 Teaching / Research
 
 🚀 I´m currently looking for work.
 
@@ -54,21 +54,23 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
   <img height="30" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&&logo=plotly&logoColor=#3F4F75" alt="Plotly"/>
   <!-- ! altair -->
   <!-- ! Bokeh -->
+  <!-- ! MLflow -->
+  <!-- ! dltHub -->
   <img height="30" src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&&logo=scipy&logoColor=white" alt="SciPy"/>
   <img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&&logo=scikit-learn&logoColor=white" alt="SciPy"/>
   <img height="30" src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&&logo=TensorFlow&logoColor=#FF6F00" alt="TensorFlow"/>
   <img height="30" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&&logo=Keras&logoColor=white" alt="Keras"/>
   <img height="30" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
   <!-- ! DBeaver -->
-  <img height="30" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&&logo=AmazonAWS&logoColor=#232F3E" alt="Amazon AWS"/>
+  <!-- ! <img height="30" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&&logo=AmazonAWS&logoColor=#232F3E" alt="Amazon AWS"/> -->
   <img height="30" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&&logo=VisualStudioCode&logoColor=#007ACC" alt="Visual Studio Code"/>
+  <img height="30" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white" alt="Google Sheets"/>
+  <img height="30" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
   <img height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img height="30" src="https://img.shields.io/badge/Quest2-white?style=for-the-badge&logo=Oculus&logoColor=black" alt="Oculus"/>
     <!-- ! Meta Quest2 -->
   <img height="30" src="https://img.shields.io/badge/Cardboard-grey?style=for-the-badge&logo=GoogleCardboard&logoColor=#FF7143" alt="Google Cardboard"/>
   <img height="30" src="https://img.shields.io/badge/Blender-white?style=for-the-badge&logo=Blender&logoColor=#F5792A" alt="Blender"/>
-  <img height="30" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img height="30" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white" alt="Google Sheets"/>
   <!-- ! UNIX -->
   <img height="30" src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <!-- ! Agile projectmanagement -->
