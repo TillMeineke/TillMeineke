@@ -20,15 +20,15 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
 
 🌱 I’m learning to become a future Machine Learning Engineer.
 
-## I am excited about 👨🏽‍💻
+## 👨🏽‍💻 I´m excited about: 
 
-- 🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
+- 🧠 Data Science (machine learning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
 - 🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
 - 🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
 - 🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
 - 🤓 Teaching / Research
 
-## 🚀 I´m currently looking for work... Connect with me 💬
+## 💬 I´m currently looking for work.Connect with me 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=black" alt="medium"/>][medium]
