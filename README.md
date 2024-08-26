@@ -1,11 +1,5 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hello there, I'm Till
 
-<!---
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
-[<img height="30" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=black" alt="medium"/>][medium]
---->
-
 <!--
 **TillMeineke/TillMeineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Data Analyst / Data Scientist with a degree in biochemistry / molecular biology and future Machine Learning Engineer
-
+### Data Analyst / Data Scientist with a degree in biochemistry / molecular biology 
 As an experienced Data Analyst and Data Scientist with a diploma in biochemistry / molecular biology I’m thrilled about machine learning projects.
 
+🌱 I’m learning to become a future Machine Learning Engineer
 
-
-## SKILLS
-- diploma in biochemistry / molecularbiology
-- work experience in data projects in the scientific field
-- Extensive knowledge and experience with Git(Hub), Python, SQL and NoSQL
-- 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
-- Applied knowledge of CSS, HTML and Dash for web-based user interfaces
-- Strong documentation skills
+## I am excited about 👨🏽‍💻
+🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
+🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
+🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
+🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
+🤓 Teaching / Research
 
 🚀 I´m currently looking for work.
 
@@ -43,15 +35,15 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
 [<img height="30" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=black" alt="medium"/>][medium]
  <!-- ? xing -->
 
-## I am excited about 👨🏽‍💻
-🧠 Data Science (machine mearning, deep learning, computer vision, NLP, LLM, AI Agents, MLOps)
-🛠️ Data Analysis / Data Engineering (Big Data, Data Mining, Data Visualization)
-🎮 XR/MR-experiences (Unity, Blender, 3D Modeling, 3D Animation)
-🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
-🤓 Teaching / Research
+## SKILLS
+- diploma in biochemistry / molecularbiology
+- work experience in data projects in the scientific field
+- Extensive knowledge and experience with Git(Hub), Python and SQL
+- 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
+- Applied knowledge of CSS, HTML and Dash for web-based user interfaces
+- Strong documentation skills
 
 ## Technologies 💻
-
 <p width="100%" align="left">
   <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img height="30" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=#150458" alt="pandas"/>
@@ -94,8 +86,6 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
    <!-- <img src="https://github-readme-stats.vercel.app/api?username=TillMeineke&theme=dracula" alt="GitHub Stats" align="top"/> -->
  </details>
 </h2>
-
-
 
 [website]: https://tillmeineke.github.io "tillmeineke.github.io"
 [linkedin]: https://www.linkedin.com/in/tillmeineke "linkedin.com/in/tillmeineke"
