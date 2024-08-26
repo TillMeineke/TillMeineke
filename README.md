@@ -28,9 +28,7 @@ As an experienced Data Analyst and Data Scientist with a diploma in biochemistry
 - 🧬 Life-Science (bioinformatics, biochemistry, molecular biology)
 - 🤓 Teaching / Research
 
-🚀 I´m currently looking for work.
-
-## Connect with me 📫
+## 🚀 I´m currently looking for work... Connect with me 💬
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=black" alt="medium"/>][medium]
